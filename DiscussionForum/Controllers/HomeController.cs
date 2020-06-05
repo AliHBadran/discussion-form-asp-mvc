@@ -8,9 +8,10 @@ namespace DiscussionForum.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        
+        public String Index()
         {
-            return View();
+            return "Go to Hell";
         }
 
         public ActionResult About()
