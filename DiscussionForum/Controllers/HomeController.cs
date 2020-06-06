@@ -13,7 +13,10 @@ namespace DiscussionForum.Controllers
         {
             return "Go to Hell";
         }
-
+        public String Index1()
+        {
+            return "BHdrajmmasnjabs";
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
