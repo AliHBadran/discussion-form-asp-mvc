@@ -11,7 +11,7 @@ namespace DiscussionForum.Controllers
         
         public String Index()
         {
-            return "BADRAN THE KING hhh";
+            return "BADRAN THE KING okokokoko";
         }
 
         public ActionResult About()
