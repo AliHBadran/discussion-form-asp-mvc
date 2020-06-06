@@ -7,6 +7,6 @@ namespace DiscussionForum.Models
 {
     public class Class1
     {
-
+        public int h = 90;
     }
 }
